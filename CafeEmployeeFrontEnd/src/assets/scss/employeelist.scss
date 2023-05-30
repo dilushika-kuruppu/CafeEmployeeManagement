@@ -1,0 +1,68 @@
+#title-employee-list{
+    top: 126px;
+    left: 330px !important;
+    width: 99px;
+    height: 41px;
+    
+    text-align: left;
+    font: normal normal 600 30px/24px Nunito Sans;
+    letter-spacing: 0px;
+    color: #3A3A3A;
+    opacity: 1;
+    }
+    
+    
+    
+    
+    .employee-list {
+     top:0px;
+     right:0px;
+    }
+    .ant-card-bordered {
+    border-radius: 25px;
+    margin-top: 22px;
+    }
+    .employee-list-table .ant-table-thead > tr > th {
+        position: relative;
+        font-weight: 700;
+        text-align: left;
+        background:#FFFFFF 0% 0% no-repeat padding-box;
+        border-bottom: 1px solid #f0f0f0;
+        letter-spacing: 0px;
+    
+    text-transform: uppercase;
+    opacity: 0.69;
+        font-size: 12px ;
+    }
+    .ant-breadcrumb a:hover{
+        font-weight: 700;
+        color: #3A3A3A;
+    
+    }
+    .card-title-employee-list{
+    margin-left: 14px;
+    font-weight: 700;
+    padding-top: 14px !important;}
+    .pagination-wrapper{
+    color: #757575;
+     margin: 14px;
+     
+    }
+    a:hover {
+        /* text-decoration: none; */
+        /* outline: 0; */
+        margin-left: 0px !important;
+    }
+    
+    .ant-table-pagination.ant-pagination {
+        display: none;}
+    
+        .employee-name {padding-left: 7px;}
+        .employee-type{
+            color: #A5A5A5;
+    opacity: 1;
+    font-size: 12px;
+    margin-left: 6px;
+        }
+        .hidepagination{display: none;}
+    

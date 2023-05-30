@@ -1,0 +1,72 @@
+.add-cafe-main{
+ 
+    border-bottom: 2px solid #ECEDF3;
+    opacity: 0.7;
+    
+    }
+    
+    .cafe-head{letter-spacing: 0px;
+    color: #525489;
+    opacity: 1;
+    text-align: left;
+    margin-left: 16px;
+    border-bottom: 1px solid #E6E6E6;}
+    
+    .cafe-head span{
+        border-bottom: 2px solid #525489;
+    }
+    .ant-form-item-label > label {
+    color: #3A3A3A;
+    opacity: 1;
+    font-size: 13px;
+        font-weight: 700;
+        margin-top: 7px !important;}
+    
+    .ant-form-item-control-input {
+        margin-top: -10px;
+    }
+    .cafe-details{
+        border-right: 1px solid #f4f0f0
+    
+    }
+    
+    .btn-footer-cafe{
+    margin-top: 27px;
+    margin-bottom: -34px;
+    text-align: right;
+    margin-left: 218px;
+    
+    .ant-btn-primary {
+        width: 126px;
+    }
+    .ant-btn-primary :hover {
+        color: #FFFFFF;;
+        
+    }
+    }
+    .ant-select.ant-select-in-form-item{
+        margin-top: 28px;
+    }
+    
+    .ant-select-single.ant-select-show-arrow .ant-select-selection-item, .ant-select-single.ant-select-show-arrow .ant-select-selection-placeholder {
+        margin-left: 18px;
+    }
+    .ant-input-number {
+        margin-right: 12px !important;
+    }
+   .ant-picker-input {
+        width: 118px !important;}
+        .ant-picker-ranges .ant-picker-ok button {
+            float: right !important;
+            width: 37px;
+            height: 25px;
+            color: rgb(255, 255, 255);
+        }
+    .btn-delete-footer {
+        margin-top: 17px;}
+      
+      .ant-btn-dangerous {  margin: 0px 8px 1px 5px;}
+    
+      .ant-select.ant-select-in-form-item.mode-select{
+        margin-top: 0px;
+      }
