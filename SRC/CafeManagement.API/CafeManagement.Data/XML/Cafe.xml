@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<SqlQueryStrings>
+	<SqlQueryString Id="CreateCafe">
+		INSERT INTO CafeDetails(id,name,description,logo,location) VALUES(@id, @name, @description, @logo, @location)
+	</SqlQueryString>
+	
+	<SqlQueryString Id="UpdateCafe">
+		UPDATE CafeDetails SET name=@name,description=@description,logo=@logo,location=@location WHERE id=@id
+	</SqlQueryString>
+
+	<SqlQueryString Id="DeleteCafe">
+		DELETE FROM CafeEmploymentDetails WHERE cafe_id in (SELECT id FROM CafeDetails)
+
+		DELETE FROM CafeDetails
+	</SqlQueryString>
+
+	<SqlQueryString Id="GetAllCafeDetails">
+		SELECT c.*, COUNT(e.cafe_id) AS employees FROM CafeDetails c
+		LEFT JOIN CafeEmploymentDetails e ON c.id = e.cafe_id
+		GROUP BY c.id ORDER BY COUNT(e.cafe_id) DESC
+	</SqlQueryString>
+
+	<SqlQueryString Id="GetCafeDetails">
+		SELECT c.*, COUNT(e.cafe_id) AS employees FROM CafeDetails c
+		LEFT JOIN CafeEmploymentDetails e ON c.id = e.cafe_id
+		WHERE c.location=@location
+		GROUP BY c.id ORDER BY COUNT(e.cafe_id) DESC
+	</SqlQueryString>
+</SqlQueryStrings>

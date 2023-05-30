@@ -1,0 +1,14 @@
+H:\Assessment\repos\CafeManagement.API\CafeManagement.Data\bin\Debug\netstandard2.0\CafeManagement.Data.deps.json
+H:\Assessment\repos\CafeManagement.API\CafeManagement.Data\bin\Debug\netstandard2.0\CafeManagement.Data.dll
+H:\Assessment\repos\CafeManagement.API\CafeManagement.Data\bin\Debug\netstandard2.0\CafeManagement.Data.pdb
+H:\Assessment\repos\CafeManagement.API\CafeManagement.Data\bin\Debug\netstandard2.0\System.Configuration.dll
+H:\Assessment\repos\CafeManagement.API\CafeManagement.Data\bin\Debug\netstandard2.0\System.Security.dll
+H:\Assessment\repos\CafeManagement.API\CafeManagement.Data\bin\Debug\netstandard2.0\System.Configuration.xml
+H:\Assessment\repos\CafeManagement.API\CafeManagement.Data\bin\Debug\netstandard2.0\System.Security.xml
+H:\Assessment\repos\CafeManagement.API\CafeManagement.Data\obj\Debug\netstandard2.0\CafeManagement.Data.csprojAssemblyReference.cache
+H:\Assessment\repos\CafeManagement.API\CafeManagement.Data\obj\Debug\netstandard2.0\CafeManagement.Data.AssemblyInfoInputs.cache
+H:\Assessment\repos\CafeManagement.API\CafeManagement.Data\obj\Debug\netstandard2.0\CafeManagement.Data.AssemblyInfo.cs
+H:\Assessment\repos\CafeManagement.API\CafeManagement.Data\obj\Debug\netstandard2.0\CafeManagement.Data.csproj.CoreCompileInputs.cache
+H:\Assessment\repos\CafeManagement.API\CafeManagement.Data\obj\Debug\netstandard2.0\CafeManagement.Data.csproj.CopyComplete
+H:\Assessment\repos\CafeManagement.API\CafeManagement.Data\obj\Debug\netstandard2.0\CafeManagement.Data.dll
+H:\Assessment\repos\CafeManagement.API\CafeManagement.Data\obj\Debug\netstandard2.0\CafeManagement.Data.pdb

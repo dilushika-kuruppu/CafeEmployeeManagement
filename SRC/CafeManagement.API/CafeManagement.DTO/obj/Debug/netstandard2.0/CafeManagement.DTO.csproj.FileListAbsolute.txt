@@ -1,0 +1,9 @@
+H:\Assessment\repos\CafeManagement.API\CafeManagement.DTO\bin\Debug\netstandard2.0\CafeManagement.DTO.deps.json
+H:\Assessment\repos\CafeManagement.API\CafeManagement.DTO\bin\Debug\netstandard2.0\CafeManagement.DTO.dll
+H:\Assessment\repos\CafeManagement.API\CafeManagement.DTO\bin\Debug\netstandard2.0\CafeManagement.DTO.pdb
+H:\Assessment\repos\CafeManagement.API\CafeManagement.DTO\obj\Debug\netstandard2.0\CafeManagement.DTO.csprojAssemblyReference.cache
+H:\Assessment\repos\CafeManagement.API\CafeManagement.DTO\obj\Debug\netstandard2.0\CafeManagement.DTO.AssemblyInfoInputs.cache
+H:\Assessment\repos\CafeManagement.API\CafeManagement.DTO\obj\Debug\netstandard2.0\CafeManagement.DTO.AssemblyInfo.cs
+H:\Assessment\repos\CafeManagement.API\CafeManagement.DTO\obj\Debug\netstandard2.0\CafeManagement.DTO.csproj.CoreCompileInputs.cache
+H:\Assessment\repos\CafeManagement.API\CafeManagement.DTO\obj\Debug\netstandard2.0\CafeManagement.DTO.dll
+H:\Assessment\repos\CafeManagement.API\CafeManagement.DTO\obj\Debug\netstandard2.0\CafeManagement.DTO.pdb

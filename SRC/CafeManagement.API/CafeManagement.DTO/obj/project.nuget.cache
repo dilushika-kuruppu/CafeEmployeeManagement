@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "LILzMCfpWX/6ZjzFq9J55coBBRGkAdoomZtkq54tgXECx2onroMfl7RGnrshYDHC0IzROSbCalZQYw5qxMseXQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Documents\\my\\assignment\\Assignment-20230501T040016Z-001\\Assignment\\SRC\\CafeManagement.API\\CafeManagement.DTO\\CafeManagement.DTO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\sqlite\\3.13.0\\sqlite.3.13.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.4\\sqlitepclraw.lib.e_sqlite3.2.1.4.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.117\\stub.system.data.sqlite.core.netstandard.1.0.117.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.data.sqlite\\1.0.117\\system.data.sqlite.1.0.117.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.data.sqlite.core\\1.0.117\\system.data.sqlite.core.1.0.117.nupkg.sha512"
+  ],
+  "logs": []
+}

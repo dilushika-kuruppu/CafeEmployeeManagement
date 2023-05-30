@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<SqlQueryStrings>
+	<SqlQueryString Id="CreateEmployee">
+		INSERT INTO EmployeeDetails(id,name,email_address,phone_number,gender) VALUES(@id, @name, @email_address, @phone_number, @gender)
+
+		INSERT INTO CafeEmploymentDetails(cafe_id,employee_id,start_date) VALUES(@cafe, @id, date())
+	</SqlQueryString>
+
+	<SqlQueryString Id="UpdateEmployee">
+		UPDATE EmployeeDetails SET name=@name,email_address=@email_address,phone_number=@phone_number,gender=@gender WHERE id=@id
+
+		UPDATE CafeEmploymentDetails SET cafe_id=@cafe,start_date=date() WHERE id=@id
+	</SqlQueryString>
+
+	<SqlQueryString Id="DeleteEmployee">
+		DELETE FROM EmployeeDetails
+	</SqlQueryString>
+
+	<SqlQueryString Id="GetAllEmployeeDetails">
+		SELECT d.*,c.name as cafe,julianday(date())-julianday(e.start_date) AS days_worked FROM EmployeeDetails d
+		LEFT JOIN CafeEmploymentDetails e ON d.id = e.employee_id
+		LEFT JOIN CafeDetails c ON e.cafe_id=c.id
+	</SqlQueryString>
+</SqlQueryStrings>
